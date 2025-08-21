@@ -1,0 +1,12 @@
+{
+  "name": "mcp-tool-tracker",
+  "version": "0.1.0",
+  "description": "MCP tool for tracking tool usage success patterns and optimizing protocols",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.2"
+  }
+}
